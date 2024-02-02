@@ -1,4 +1,5 @@
 # GRADE4_BALD_PROJECT_FLASK
+Bald project / flask server part
 
 ## Getting Started
 
